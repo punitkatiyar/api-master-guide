@@ -1,0 +1,66 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "user 1",
+      "email": "user1@ducat.com",
+      "password": "12345"
+    },
+    {
+      "id": "2",
+      "name": "user 2",
+      "email": "user2@ducat.com",
+      "password": "1234567"
+    },
+    {
+      "id": "3",
+      "name": "user 3",
+      "email": "user3@ducat.com",
+      "password": "12345987"
+    },
+    {
+      "id": "595e",
+      "name": "Punit",
+      "email": "punit.kat@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "527a",
+      "name": "Ducat",
+      "email": "ducat@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "b6c8",
+      "name": "user123",
+      "email": "user123@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "9299",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "d17d",
+      "name": "admin123",
+      "email": "admin123@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "c1e8",
+      "name": "punit123",
+      "email": "punit123@google.com",
+      "password": "12365"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "This is Article one Heading",
+      "body": "this is article paragraph",
+      "banner": "abc.jpg"
+    }
+  ]
+}
