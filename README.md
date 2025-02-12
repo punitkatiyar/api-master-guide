@@ -19,12 +19,12 @@ API master guide for developers
 
 ```
  "serve-json": "json-server --watch db.json"
- "serve-json": "json-server --watch db.json --port 4000 "
+ "api": "json-server --watch db.json --port 4000 "
  
 ```
 
 - run the server
 
 ```
-npm run serve-json
+npm run api
 ```
