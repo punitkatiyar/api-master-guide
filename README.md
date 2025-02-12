@@ -9,13 +9,13 @@ API master guide for developers
 
 ## How To Setup JSON Server
 
-- 1. create a json file to store tha data
+- create a json file to store tha data
 
-- 2. create a package
+- create a package
 
-- 3. install the json-server package
+- install the json-server package
 
-- 4. add code to package
+- add code to package
 
 ```
  "serve-json": "json-server --watch db.json"
@@ -23,7 +23,7 @@ API master guide for developers
  
 ```
 
-- 5. run the server
+- run the server
 
 ```
 npm run serve-json
