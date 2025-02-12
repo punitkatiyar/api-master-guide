@@ -11,6 +11,18 @@ API master guide for developers
 
 - create a json file to store tha data
 
+```
+{
+    "table-name":[
+        {
+            col-name:"col-value"
+        }
+    ]
+
+}
+```
+<hr>
+
 - create a package
 
 - install the json-server package
