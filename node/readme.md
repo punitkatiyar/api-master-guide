@@ -5,3 +5,7 @@
 > xml
 
 > json {key:value}
+
+> alwaya respect all http methods : get , post , put , patch , delete
+
+> 
