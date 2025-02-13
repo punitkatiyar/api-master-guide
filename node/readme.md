@@ -8,4 +8,7 @@
 
 > alwaya respect all http methods : get , post , put , patch , delete
 
-> 
+
+# create sample json data 
+
+- https://www.mockaroo.com/
